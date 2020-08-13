@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MessageReader</string>
+    <string name="view_full_msg">View Full Message</string>
+</resources>
